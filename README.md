@@ -1,4 +1,4 @@
-# Hi, I'm Neel (kryoton98) 👋
+# Hi, I'm Neel (aka kryoton98) 👋
 
 > competitive programming // optimizations // building stuff
 
@@ -62,5 +62,3 @@ I am a second‑year BTech student at IIT Kharagpur with a strong passion for te
 ### 🕹️ That's it for the boring part. Would you like to play a game now?
 
 [![Play Game of 15](https://github.com/kryoton98/Games/blob/main/Game_of_15/preview.png?raw=true)](https://kryoton98.github.io/Games/Game_of_15/)
-
-[**➤ Click here to Challenge the Bot**](https://kryoton98.github.io/Games/Game_of_15/)
