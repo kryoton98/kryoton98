@@ -9,7 +9,7 @@ I love **optimizations**, **competitive programming**, and **building random stu
 
 I obsess over efficiency and enjoy solving complex problems with simple code.
 
-I am a second‑year BTech student at IIT Kharagpur with a strong passion for technology and software development.
+I am a third‑year BTech student at IIT Kharagpur with a strong passion for technology and software development.
 
 ---
 
